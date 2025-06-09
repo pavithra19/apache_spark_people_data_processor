@@ -1,6 +1,6 @@
 # Apache Spark People and Customer Processor Project
 
-This project demonstrates the use of Structured APIs in Apache Spark, with a primary focus on Scala. It provides practical examples and code for processing, analyzing, and transforming people-related datasets using Spark’s RDD, DataFrame and Dataset APIs.
+This project is a data processing application built with Apache Spark and Scala. This project is designed to efficiently process, analyze, and transform large datasets related to people data. It leverages Spark’s distributed computing capabilities to handle CSV, JSON, other structured data formats for scalable data ingestion, cleaning, and reporting. The codebase is modular, making it easy to extend for custom data pipelines or integrate with additional data sources. Shell scripts are included for streamlined deployment and execution.
 
 ## Table of Contents
 
@@ -14,7 +14,12 @@ This project demonstrates the use of Structured APIs in Apache Spark, with a pri
 
 ## Overview
 
-The goal of this project is to help users learn and implement Apache Spark’s Structured APIs for handling structured data. The code is written in Scala and demonstrates best practices for building scalable data pipelines.
+- Fast and scalable data processing using Apache Spark
+- Written primarily in Scala for performance and maintainability
+- Modular pipeline for data ingestion, transformation, and export
+- Shell scripts for automation and ease of use
+- Suitable for batch processing of large people-related datasets
+
 
 ## Features
 
