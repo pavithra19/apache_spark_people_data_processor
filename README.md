@@ -58,8 +58,8 @@ This project is a data processing application built with Apache Spark and Scala.
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/pavithra19/apache_spark_people_processor_project.git
-   cd apache_spark_people_processor_project
+   git clone https://github.com/pavithra19/apache_spark_people_data_processor.git
+   cd apache_spark_people_data_processor
    ```
 
 ## Usage
