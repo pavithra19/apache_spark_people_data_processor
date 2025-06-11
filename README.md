@@ -1,4 +1,4 @@
-# Apache Spark People and Customer Processor Project
+# Apache Spark People and Customer Subscriptions Processor Project
 
 This project is a data processing application built with Apache Spark and Scala. This project is designed to efficiently process, analyze, and transform large datasets related to people data. It leverages Spark’s distributed computing capabilities to handle CSV, JSON, other structured data formats for scalable data ingestion, cleaning, and reporting. The codebase is modular, making it easy to extend for custom data pipelines or integrate with additional data sources. Shell scripts are included for streamlined deployment and execution.
 
