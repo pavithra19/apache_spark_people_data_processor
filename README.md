@@ -39,8 +39,9 @@ This project is a data processing application built with Apache Spark and Scala.
 │           └── [Scala source files]
 ├── data/
 │   └── people.csv
+    └── customers.csv
 ├── scripts/
-│   └── [Shell scripts for running jobs]
+│   └── [Shell scripts for running hadoop jobs]
 ├── README.md
 ```
 
